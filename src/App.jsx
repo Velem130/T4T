@@ -5,7 +5,7 @@ function App() {
         🏆 FNB Hackathon 2025
       </h1>
       <p className="text-lg">
-        Welcome to Team T4T — Building the future of Food & Beverage innovation!
+        Welcome to Team T4T — Building the future of Food & Beverage innovation! we are 6 of us
       </p>
       <button className="mt-6 px-6 py-2 bg-white text-blue-600 font-semibold rounded-lg shadow hover:bg-gray-200 transition">
         Let’s Build 🚀
